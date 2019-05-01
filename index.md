@@ -1,5 +1,5 @@
 <center>
-     <h1>Yixin Zhuang</h1>
+     <h1> Zhuang</h1>
      <div>
          <span>
              55 Webster Ave, Jersey City, NJ,  07307	 
@@ -15,10 +15,12 @@
      </div>
 </center>
 
-## OBJECTIVE/SUMMARY
-Hands-on individual with a degree in computer science and two years of professional experience in search of a software engineer position. A solid grasp of data structure, object-oriented designs, algorithm and web programming development.
+### <center>OBJECTIVE/SUMMARY</center>
+---
+Hands-on individuaYixinl with a degree in computer science and two years of professional experience in search of a software engineer position. A solid grasp of data structure, object-oriented designs, algorithm and web programming development.
 
-## EDUCATION EXPERIENCE
+### EDUCATION EXPERIENCE
+---
 #####**Stevens Institute of Technology**, Hoboken, NJ, **Expected May 2019**
 + **Master of Science: Computer Science,**		       **GPA: 3.93/4.0**
 + **Merit Award: Master’s Fellowship Award (Top 5%)**
