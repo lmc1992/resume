@@ -16,12 +16,12 @@
 </center>
 
 
-#### OBJECTIVE/SUMMARY
+#### <center>OBJECTIVE/SUMMARY</center>
 
 ---
 Hands-on individuaYixinl with a degree in computer science and two years of professional experience in search of a software engineer position. A solid grasp of data structure, object-oriented designs, algorithm and web programming development.
 
-#### EDUCATION EXPERIENCE
+#### <center>EDUCATION EXPERIENCE</center>
 
 ---
 
@@ -35,7 +35,7 @@ Hands-on individuaYixinl with a degree in computer science and two years of prof
   
 
 
-#### WORK EXPERIENCE
+#### <center>WORK EXPERIENCE</center>
 
 ---
 
@@ -50,7 +50,7 @@ Hands-on individuaYixinl with a degree in computer science and two years of prof
 ###### Worked for Applied Data Structure & Algorithm course
 + Assist Professor in conducting exams, grading, and tutoring students about data structure and algorithm
 
-#### PROJECTS EXPERIENCE
+#### <center>PROJECTS EXPERIENCE</center>
 
 ---
 
@@ -62,7 +62,7 @@ Hands-on individuaYixinl with a degree in computer science and two years of prof
 + Studied main search engines on the market and imitate to develop an App to complete the computer storage of information and users’ information demand matching
 + Used **Jsoup** to parse HTML content, extracted and processed data to construct a high-level data structure Trie tree and used **inverted index** to improve search quality 
 
-#### SKILLS/STRENTHS
+#### <center>SKILLS/STRENTHS</center>
 
 ---
 
