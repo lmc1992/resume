@@ -1,5 +1,5 @@
 <center>
-     <h1> Zhuang</h1>
+     <h1>Yixin Zhuang</h1>
      <div>
          <span>
              55 Webster Ave, Jersey City, NJ,  07307	 
