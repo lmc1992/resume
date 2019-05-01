@@ -1,62 +1,58 @@
- <center>
-     <h1>XXX</h1>
+<center>
+     <h1>Yixin Zhuang</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             55 Webster Ave, Jersey City, NJ,  07307	 
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             phone: 551-229-6143
          </span>
          ·
          <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             yzhuang7@stevens.ed
          </span>
      </div>
- </center>
+</center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+## OBJECTIVE/SUMMARY
+Hands-on individual with a degree in computer science and two years of professional experience in search of a software engineer position. A solid grasp of data structure, object-oriented designs, algorithm and web programming development.
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+## EDUCATION EXPERIENCE
+#####**Stevens Institute of Technology**, Hoboken, NJ, **Expected May 2019**
++ **Master of Science: Computer Science,**		       **GPA: 3.93/4.0**
++ **Merit Award: Master’s Fellowship Award (Top 5%)**
++ **Coursework**: Applied Data Structure & Algorithm, Adv. Algorithm Design & Implement，Web Programming, Database Management Systems, Computer Organization & Programming, TCP/IP  
+##### **South China University of Technology, Guangzhou, China**
++ **Bachelor of Science: Computer Science and Technology,            GPA: 3.56/4.0**             
++ **Merit Award: School Scholarship (Top 10%)**
+  
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+## WORK EXPERIENCE
+##### **Summer Intern				Ytlink(startup)                                                                 06/2018-08/2018**
+###### Worked as Java web developer and was responsible for implementing a search service
++ Designed, initialized and maintain house information index and documents
++ Utilized IK analyzer to customize chinese dictionary and redis pubsub to update index asynchronously
++ Supported autocomplete search keyword when typing by ElasticSearch suggester
++ Implemented with ElasticSearch, Spring Boot, MySQL, programmed in java using IntelliJ IDEA, debugged using postman and ElasticSearch header
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+##### **Teaching Assistant   			Stevens Institute of Technology                               	           2018 Fall-present**
+###### Worked for Applied Data Structure & Algorithm course
++ Assist Professor in conducting exams, grading, and tutoring students about data structure and algorithm
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+## PROJECTS EXPERIENCE
+##### **EatNow Website (Full Stack Development)**
++ Designed an online restaurants recommendation website mainly for restaurant owners to post their menu for promotion and get feedback from customers to make progress. 
++ Built interactive components and implemented **RESTful API** with customized Express route handlers and tested interfaces using Postman.
++ Stored user and dish data with **MongoDB**, cached by **Redis**
+##### **Search Engine**, Adv. Algorithm Design & Implement Project
++ Studied main search engines on the market and imitate to develop an App to complete the computer storage of information and users’ information demand matching
++ Used **Jsoup** to parse HTML content, extracted and processed data to construct a high-level data structure Trie tree and used **inverted index** to improve search quality 
 
-   负责 XXX
+## SKILLS/STRENTHS
++ **Programming Languages**: Java, Python                                                              
++ **Web Development**: Java Web, Spring Boot, RESTful API
++ **Database**: MySQL, MongoDB, Redis                  
++ **Tool**: Git, Postman, IntelliJ IDEA, Maven 
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
-
-- **XXXX 项目**
-
-  *使用到的技术*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
-
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
-
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
