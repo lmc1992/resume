@@ -25,7 +25,7 @@ Hands-on individuaYixinl with a degree in computer science and two years of prof
 
 ---
 
-#####**Stevens Institute of Technology**, Hoboken, NJ, **Expected May 2019**
+##### **Stevens Institute of Technology**, Hoboken, NJ, **Expected May 2019**
 + **Master of Science: Computer Science,**		       **GPA: 3.93/4.0**
 + **Merit Award: Master’s Fellowship Award (Top 5%)**
 + **Coursework**: Applied Data Structure & Algorithm, Adv. Algorithm Design & Implement，Web Programming, Database Management Systems, Computer Organization & Programming, TCP/IP  
